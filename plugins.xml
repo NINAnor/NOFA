@@ -1,0 +1,30 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="/static/style/plugins.xsl" ?>
+<plugins>
+    <pyqgis_plugin name="NOFA Visualisation" version="0.1" plugin_id="1">
+        <description><![CDATA[Loads layers with predefined styes from the NOFA database]]></description>
+        <about><![CDATA[Loads layers with predefined styes from the NOFA database.]]></about>
+        <version>0.1</version>
+        <trusted>True</trusted>
+        <qgis_minimum_version>2.0.0</qgis_minimum_version>
+        <qgis_maximum_version>2.99.0</qgis_maximum_version>
+        <homepage><![CDATA[https://github.com/NINAnor/invafish]]></homepage>
+        <file_name>arpat.0.3.3.zip</file_name>
+        <icon>/static/packages/survey.png</icon>
+        <author_name><![CDATA[Martin Dobias (Faunalia)]]></author_name>
+        <download_url>http://plugins.qgis.org/plugins/arpat/version/0.3.3/download/</download_url>
+        <uploaded_by><![CDATA[ninsbl]]></uploaded_by>
+        <create_date>2012-06-18T09:43:57.251757</create_date>
+        <update_date>2012-06-18T09:43:57.251757</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[https://github.com/NINAnor/invafish/issues]]></tracker>
+        <repository><![CDATA[https://github.com/NINAnor/invafish]]></repository>
+        <tags><![CDATA[NOFA,visualization]]></tags>
+        <downloads>0</downloads>
+        <average_vote>0</average_vote>
+        <rating_votes>0</rating_votes>
+        <external_dependencies></external_dependencies>
+        <server>False</server>
+    </pyqgis_plugin>
+</plugins>
