@@ -1,7 +1,7 @@
 # NOFA
 Home for the NOFA database documentation and associates.
 
-* See Wiki for genreal NOFA user documentation
+* [See Wiki for genreal NOFA user documentation](https://github.com/NINAnor/NOFA/wiki)
 
 * QGSI pluggins in own repositories at NINAnor/NOFA_(name of pluggin)_
 
